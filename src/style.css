@@ -1,3 +1,17 @@
 h1 {
     color: red;
 }
+
+.timeSpan {
+    color: blue;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: red;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px 50px
+}
